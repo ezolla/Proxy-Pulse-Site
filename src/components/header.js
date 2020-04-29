@@ -14,18 +14,27 @@ const Header = () => (
           <img
             src={require("../images/logo.svg")}
             alt="Computer Monitor with Pulse"
+            rel="noopener noreferrer"
           />
         </Link>
 
         {/* Center Links */}
         <ul>
           <li>
-            <a href="https://github.com/ezolla" target="_blank">
+            <a
+              href="https://github.com/ezolla"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               Releases
             </a>
           </li>
           <li>
-            <a href="https://github.com/ezolla" target="_blank">
+            <a
+              href="https://github.com/ezolla"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               Contribute
             </a>
           </li>
@@ -33,6 +42,7 @@ const Header = () => (
             <a
               href="https://paypal.me/ethanzoller?locale.x=en_US"
               target="_blank"
+              rel="noopener noreferrer"
             >
               Donate
             </a>
@@ -69,15 +79,14 @@ const Container = styled.div`
   margin: 20px auto;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
+  padding: 0 20px;
 
   img {
     width: 50px;
-    flex: 20%;
   }
 
   ul {
     list-style: none;
-    flex: 60%;
 
     li {
       display: inline;
@@ -97,6 +106,10 @@ const Container = styled.div`
         }
       }
     }
+
+    @media (max-width: 600px) {
+      display: none;
+    }
   }
 
   .button {
@@ -109,6 +122,7 @@ const Container = styled.div`
     align-items: center;
     text-align: center;
     transition: 0.3s;
+    font-weight: 500;
 
     div {
       margin-right: 10px;
@@ -117,5 +131,9 @@ const Container = styled.div`
     :hover {
       background: #3a3a3c;
     }
+  }
+
+  @media (max-width: 600px) {
+    grid-template-columns: repeat(2, 1fr);
   }
 `
