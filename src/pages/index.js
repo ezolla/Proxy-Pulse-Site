@@ -199,7 +199,7 @@ const Hero = styled.div`
   span {
     color: #6383ff;
     line-height: 14.6px;
-    letter-spacing: 3.9px;
+    letter-spacing: 2px;
     font-size: 14px;
     animation: ${HeroAnimation} 0.8s forwards cubic-bezier(0.2, 0.8, 0.2, 1);
   }
