@@ -1,0 +1,171 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="800" viewBox="0 0 1200 800">
+  <defs>
+    <filter id="Rectangle_1" x="-30" y="-27" width="260" height="860" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f24c58"/>
+      <stop offset="1" stop-color="#ed3c4d"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#5d60de"/>
+      <stop offset="1" stop-color="#5759cf"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.521" x2="0.52" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f2a33c"/>
+      <stop offset="1" stop-color="#f19938"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6383ff"/>
+      <stop offset="1" stop-color="#675eff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f9d74a"/>
+      <stop offset="1" stop-color="#f7cd46"/>
+    </linearGradient>
+    <clipPath id="clip-Diff_background_color">
+      <rect width="1200" height="800"/>
+    </clipPath>
+  </defs>
+  <g id="Diff_background_color" data-name="Diff background color" clip-path="url(#clip-Diff_background_color)">
+    <rect width="1200" height="800" fill="#292828"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_1)">
+      <rect id="Rectangle_1-2" data-name="Rectangle 1" width="200" height="800" fill="#202020"/>
+    </g>
+    <rect id="Rectangle_21" data-name="Rectangle 21" width="160" height="40" rx="6" transform="translate(20 266)" fill="#00d97b"/>
+    <text id="Start_Tests" data-name="Start Tests" transform="translate(63 292)" fill="#f2f2f7" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600"><tspan x="0" y="0">Start Tests</tspan></text>
+    <rect id="Rectangle_26" data-name="Rectangle 26" width="160" height="40" rx="6" transform="translate(20 316)" fill="url(#linear-gradient)"/>
+    <text id="Clear_All" data-name="Clear All" transform="translate(72 342)" fill="#f2f2f7" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600"><tspan x="0" y="0">Clear All</tspan></text>
+    <rect id="Rectangle_27" data-name="Rectangle 27" width="160" height="40" rx="6" transform="translate(20 366)" fill="url(#linear-gradient-2)"/>
+    <text id="Import" transform="translate(78 392)" fill="#f2f2f7" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600"><tspan x="0" y="0">Import</tspan></text>
+    <rect id="Rectangle_24" data-name="Rectangle 24" width="160" height="40" rx="6" transform="translate(20 416)" fill="url(#linear-gradient-3)"/>
+    <text id="Export" transform="translate(78 442)" fill="#f2f2f7" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600"><tspan x="0" y="0">Export</tspan></text>
+    <rect id="Rectangle_29" data-name="Rectangle 29" width="75" height="75" rx="6" transform="translate(20 181)" fill="url(#linear-gradient-4)"/>
+    <path id="Path_3" data-name="Path 3" d="M6,0H69a6,6,0,0,1,6,6V69a6,6,0,0,1-6,6H6a6,6,0,0,1-6-6V6A6,6,0,0,1,6,0Z" transform="translate(105 181)" fill="url(#linear-gradient-5)"/>
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="6" cy="6" r="6" transform="translate(10 8)" fill="#de545a"/>
+    <circle id="Ellipse_2" data-name="Ellipse 2" cx="6" cy="6" r="6" transform="translate(27 8)" fill="#eab651"/>
+    <circle id="Ellipse_3" data-name="Ellipse 3" cx="6" cy="6" r="6" transform="translate(45 8)" fill="#60c24e"/>
+    <g id="home_1_" data-name="home (1)" transform="translate(26 171.637)">
+      <path id="Path_1" data-name="Path 1" d="M77,99.208a.53.53,0,0,0-.733,0l-12.2,11.658a.53.53,0,0,0-.164.384l0,10.941a2.121,2.121,0,0,0,2.121,2.121h6.37a1.061,1.061,0,0,0,1.061-1.061v-9.015a.53.53,0,0,1,.53-.53h5.3a.53.53,0,0,1,.53.53v9.015a1.061,1.061,0,0,0,1.061,1.061h6.367a2.121,2.121,0,0,0,2.121-2.121V111.249a.53.53,0,0,0-.164-.384Z" transform="translate(-44.725 -62.616)" fill="#f2f2f7"/>
+      <path id="Path_2" data-name="Path 2" d="M47.479,46.063l-4.958-4.743v-7.2a1.061,1.061,0,0,0-1.061-1.061H38.279a1.061,1.061,0,0,0-1.061,1.061v2.121l-3.839-3.671A2.064,2.064,0,0,0,31.908,32h0a2.057,2.057,0,0,0-1.468.572l-14.1,13.489a1.081,1.081,0,0,0-.089,1.483,1.061,1.061,0,0,0,1.537.07L31.544,34.471a.53.53,0,0,1,.733,0L46.032,47.614a1.061,1.061,0,0,0,1.5-.029A1.087,1.087,0,0,0,47.479,46.063Z" transform="translate(0)" fill="#f2f2f7"/>
+    </g>
+    <path id="help-buoy" d="M59.16,36.66a15.91,15.91,0,1,0,0,22.5,15.91,15.91,0,0,0,0-22.5ZM43.374,48.207a4.546,4.546,0,1,1,4.24,4.24A4.546,4.546,0,0,1,43.374,48.207ZM60.42,43.474l-6.845.415a.288.288,0,0,1-.244-.113,6.818,6.818,0,0,0-1.283-1.283.288.288,0,0,1-.113-.244l.415-6.845a.284.284,0,0,1,.385-.249,13.708,13.708,0,0,1,7.932,7.935.284.284,0,0,1-.249.385ZM43.474,35.4l.415,6.845a.288.288,0,0,1-.113.244,6.818,6.818,0,0,0-1.283,1.283.288.288,0,0,1-.244.113L35.4,43.474a.284.284,0,0,1-.249-.385,13.708,13.708,0,0,1,7.935-7.935.284.284,0,0,1,.385.249ZM35.4,52.347l6.845-.415a.288.288,0,0,1,.244.113,6.818,6.818,0,0,0,1.283,1.283.288.288,0,0,1,.113.244l-.415,6.845a.284.284,0,0,1-.385.249,13.708,13.708,0,0,1-7.935-7.935.284.284,0,0,1,.249-.385Zm16.943,8.071-.415-6.845a.288.288,0,0,1,.113-.244,6.818,6.818,0,0,0,1.283-1.283.288.288,0,0,1,.244-.113l6.845.415a.284.284,0,0,1,.249.385,13.708,13.708,0,0,1-7.935,7.935.284.284,0,0,1-.385-.249Z" transform="translate(95 171)" fill="#f2f2f7"/>
+    <rect id="Rectangle_32" data-name="Rectangle 32" width="1001" height="20" transform="translate(199)" fill="#202020"/>
+    <rect id="Rectangle_33" data-name="Rectangle 33" width="960" height="50" rx="3" transform="translate(220 73)" fill="#202020"/>
+    <text id="PORT" transform="translate(390 54)" fill="#f2f2f7" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">PORT</tspan></text>
+    <text id="IP" transform="translate(230 54)" fill="#f2f2f7" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">IP</tspan></text>
+    <text id="USER" transform="translate(550 54)" fill="#f2f2f7" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">USER</tspan></text>
+    <text id="PASS" transform="translate(710 54)" fill="#f2f2f7" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">PASS</tspan></text>
+    <text id="STATUS" transform="translate(870 54)" fill="#f2f2f7" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">STATUS</tspan></text>
+    <text id="SPEED" transform="translate(1030 54)" fill="#f2f2f7" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">SPEED</tspan></text>
+    <text id="_24.11.240.21" data-name="24.11.240.21" transform="translate(230 103)" fill="#8e8e93" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">24.11.240.21</tspan></text>
+    <text id="_8080" data-name="8080" transform="translate(390 103)" fill="#8e8e93" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">8080</tspan></text>
+    <text id="Hidden" transform="translate(550 103)" fill="#8e8e93" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">Hidden</tspan></text>
+    <text id="Secret" transform="translate(710 103)" fill="#8e8e93" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">Secret</tspan></text>
+    <text id="_89ms" data-name="89ms" transform="translate(1030 103)" fill="#8e8e93" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">89ms</tspan></text>
+    <text id="Good" transform="translate(870 103)" fill="#3a85f7" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">Good</tspan></text>
+    <rect id="Rectangle_34" data-name="Rectangle 34" width="960" height="50" rx="3" transform="translate(220 133)" fill="#202020"/>
+    <text id="_24.11.240.21-2" data-name="24.11.240.21" transform="translate(230 163)" fill="#8e8e93" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">24.11.240.21</tspan></text>
+    <text id="_8080-2" data-name="8080" transform="translate(390 163)" fill="#8e8e93" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">8080</tspan></text>
+    <text id="Hidden-2" data-name="Hidden" transform="translate(550 163)" fill="#8e8e93" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">Hidden</tspan></text>
+    <text id="Secret-2" data-name="Secret" transform="translate(710 163)" fill="#8e8e93" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">Secret</tspan></text>
+    <text id="_1204ms" data-name="1204ms" transform="translate(1030 163)" fill="#8e8e93" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">1204ms</tspan></text>
+    <text id="Bad" transform="translate(870 163)" fill="#f04654" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">Bad</tspan></text>
+    <rect id="Rectangle_35" data-name="Rectangle 35" width="960" height="50" rx="3" transform="translate(220 193)" fill="#202020"/>
+    <text id="_24.11.240.21-3" data-name="24.11.240.21" transform="translate(230 223)" fill="#8e8e93" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">24.11.240.21</tspan></text>
+    <text id="_8080-3" data-name="8080" transform="translate(390 223)" fill="#8e8e93" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">8080</tspan></text>
+    <text id="Hidden-3" data-name="Hidden" transform="translate(550 223)" fill="#8e8e93" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">Hidden</tspan></text>
+    <text id="Secret-3" data-name="Secret" transform="translate(710 223)" fill="#8e8e93" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">Secret</tspan></text>
+    <text id="_89ms-2" data-name="89ms" transform="translate(1030 223)" fill="#8e8e93" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">89ms</tspan></text>
+    <text id="Great" transform="translate(870 223)" fill="#40d97b" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">Great</tspan></text>
+    <rect id="Rectangle_36" data-name="Rectangle 36" width="960" height="50" rx="3" transform="translate(220 253)" fill="#202020"/>
+    <text id="_24.11.240.21-4" data-name="24.11.240.21" transform="translate(230 283)" fill="#8e8e93" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">24.11.240.21</tspan></text>
+    <text id="_8080-4" data-name="8080" transform="translate(390 283)" fill="#8e8e93" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">8080</tspan></text>
+    <text id="Hidden-4" data-name="Hidden" transform="translate(550 283)" fill="#8e8e93" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">Hidden</tspan></text>
+    <text id="Secret-4" data-name="Secret" transform="translate(710 283)" fill="#8e8e93" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">Secret</tspan></text>
+    <text id="_89ms-3" data-name="89ms" transform="translate(1030 283)" fill="#8e8e93" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">89ms</tspan></text>
+    <text id="Great-2" data-name="Great" transform="translate(870 283)" fill="#40d97b" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">Great</tspan></text>
+    <rect id="Rectangle_37" data-name="Rectangle 37" width="960" height="50" rx="3" transform="translate(220 313)" fill="#202020"/>
+    <text id="_24.11.240.21-5" data-name="24.11.240.21" transform="translate(230 343)" fill="#8e8e93" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">24.11.240.21</tspan></text>
+    <text id="_8080-5" data-name="8080" transform="translate(390 343)" fill="#8e8e93" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">8080</tspan></text>
+    <text id="Hidden-5" data-name="Hidden" transform="translate(550 343)" fill="#8e8e93" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">Hidden</tspan></text>
+    <text id="Secret-5" data-name="Secret" transform="translate(710 343)" fill="#8e8e93" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">Secret</tspan></text>
+    <text id="_89ms-4" data-name="89ms" transform="translate(1030 343)" fill="#8e8e93" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">89ms</tspan></text>
+    <text id="Bad-2" data-name="Bad" transform="translate(870 343)" fill="#f04654" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">Bad</tspan></text>
+    <rect id="Rectangle_38" data-name="Rectangle 38" width="960" height="50" rx="3" transform="translate(220 373)" fill="#202020"/>
+    <text id="_24.11.240.21-6" data-name="24.11.240.21" transform="translate(230 403)" fill="#8e8e93" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">24.11.240.21</tspan></text>
+    <text id="_8080-6" data-name="8080" transform="translate(390 403)" fill="#8e8e93" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">8080</tspan></text>
+    <text id="Hidden-6" data-name="Hidden" transform="translate(550 403)" fill="#8e8e93" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">Hidden</tspan></text>
+    <text id="Secret-6" data-name="Secret" transform="translate(710 403)" fill="#8e8e93" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">Secret</tspan></text>
+    <text id="_89ms-5" data-name="89ms" transform="translate(1030 403)" fill="#8e8e93" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">89ms</tspan></text>
+    <text id="Ok" transform="translate(870 403)" fill="#f2a33c" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">Ok</tspan></text>
+    <rect id="Rectangle_39" data-name="Rectangle 39" width="960" height="50" rx="3" transform="translate(220 433)" fill="#202020"/>
+    <text id="_24.11.240.21-7" data-name="24.11.240.21" transform="translate(230 463)" fill="#8e8e93" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">24.11.240.21</tspan></text>
+    <text id="_8080-7" data-name="8080" transform="translate(390 463)" fill="#8e8e93" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">8080</tspan></text>
+    <text id="Hidden-7" data-name="Hidden" transform="translate(550 463)" fill="#8e8e93" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">Hidden</tspan></text>
+    <text id="Secret-7" data-name="Secret" transform="translate(710 463)" fill="#8e8e93" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">Secret</tspan></text>
+    <text id="_89ms-6" data-name="89ms" transform="translate(1030 463)" fill="#8e8e93" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">89ms</tspan></text>
+    <text id="Good-2" data-name="Good" transform="translate(870 463)" fill="#3a85f7" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">Good</tspan></text>
+    <rect id="Rectangle_40" data-name="Rectangle 40" width="960" height="50" rx="3" transform="translate(220 493)" fill="#202020"/>
+    <text id="_24.11.240.21-8" data-name="24.11.240.21" transform="translate(230 523)" fill="#8e8e93" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">24.11.240.21</tspan></text>
+    <text id="_8080-8" data-name="8080" transform="translate(390 523)" fill="#8e8e93" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">8080</tspan></text>
+    <text id="Hidden-8" data-name="Hidden" transform="translate(550 523)" fill="#8e8e93" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">Hidden</tspan></text>
+    <text id="Secret-8" data-name="Secret" transform="translate(710 523)" fill="#8e8e93" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">Secret</tspan></text>
+    <text id="_89ms-7" data-name="89ms" transform="translate(1030 523)" fill="#8e8e93" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">89ms</tspan></text>
+    <text id="Bad-3" data-name="Bad" transform="translate(870 523)" fill="#f04654" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">Bad</tspan></text>
+    <rect id="Rectangle_41" data-name="Rectangle 41" width="960" height="50" rx="3" transform="translate(220 553)" fill="#202020"/>
+    <text id="_24.11.240.21-9" data-name="24.11.240.21" transform="translate(230 583)" fill="#8e8e93" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">24.11.240.21</tspan></text>
+    <text id="_8080-9" data-name="8080" transform="translate(390 583)" fill="#8e8e93" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">8080</tspan></text>
+    <text id="Hidden-9" data-name="Hidden" transform="translate(550 583)" fill="#8e8e93" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">Hidden</tspan></text>
+    <text id="Secret-9" data-name="Secret" transform="translate(710 583)" fill="#8e8e93" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">Secret</tspan></text>
+    <text id="_89ms-8" data-name="89ms" transform="translate(1030 583)" fill="#8e8e93" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">89ms</tspan></text>
+    <text id="Ok-2" data-name="Ok" transform="translate(870 583)" fill="#f2a33c" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">Ok</tspan></text>
+    <rect id="Rectangle_42" data-name="Rectangle 42" width="960" height="50" rx="3" transform="translate(220 613)" fill="#202020"/>
+    <text id="_24.11.240.21-10" data-name="24.11.240.21" transform="translate(230 643)" fill="#8e8e93" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">24.11.240.21</tspan></text>
+    <text id="_8080-10" data-name="8080" transform="translate(390 643)" fill="#8e8e93" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">8080</tspan></text>
+    <text id="Hidden-10" data-name="Hidden" transform="translate(550 643)" fill="#8e8e93" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">Hidden</tspan></text>
+    <text id="Secret-10" data-name="Secret" transform="translate(710 643)" fill="#8e8e93" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">Secret</tspan></text>
+    <text id="_89ms-9" data-name="89ms" transform="translate(1030 643)" fill="#8e8e93" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">89ms</tspan></text>
+    <text id="Great-3" data-name="Great" transform="translate(870 643)" fill="#40d97b" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">Great</tspan></text>
+    <rect id="Rectangle_43" data-name="Rectangle 43" width="960" height="50" rx="3" transform="translate(220 673)" fill="#202020"/>
+    <text id="_24.11.240.21-11" data-name="24.11.240.21" transform="translate(230 703)" fill="#8e8e93" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">24.11.240.21</tspan></text>
+    <text id="_8080-11" data-name="8080" transform="translate(390 703)" fill="#8e8e93" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">8080</tspan></text>
+    <text id="Hidden-11" data-name="Hidden" transform="translate(550 703)" fill="#8e8e93" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">Hidden</tspan></text>
+    <text id="Secret-11" data-name="Secret" transform="translate(710 703)" fill="#8e8e93" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">Secret</tspan></text>
+    <text id="_89ms-10" data-name="89ms" transform="translate(1030 703)" fill="#8e8e93" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">89ms</tspan></text>
+    <text id="Ok-3" data-name="Ok" transform="translate(870 703)" fill="#f2a33c" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">Ok</tspan></text>
+    <rect id="Rectangle_44" data-name="Rectangle 44" width="960" height="50" rx="3" transform="translate(220 733)" fill="#202020"/>
+    <text id="_24.11.240.21-12" data-name="24.11.240.21" transform="translate(230 763)" fill="#8e8e93" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">24.11.240.21</tspan></text>
+    <text id="_8080-12" data-name="8080" transform="translate(390 763)" fill="#8e8e93" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">8080</tspan></text>
+    <text id="Hidden-12" data-name="Hidden" transform="translate(550 763)" fill="#8e8e93" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">Hidden</tspan></text>
+    <text id="Secret-12" data-name="Secret" transform="translate(710 763)" fill="#8e8e93" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">Secret</tspan></text>
+    <text id="_89ms-11" data-name="89ms" transform="translate(1030 763)" fill="#8e8e93" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">89ms</tspan></text>
+    <text id="Bad-4" data-name="Bad" transform="translate(870 763)" fill="#f04654" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">Bad</tspan></text>
+    <g id="Group_13" data-name="Group 13" transform="translate(-1022 -1142.453)">
+      <g id="_2005372" data-name="2005372" transform="translate(1089 1212)">
+        <path id="Path_234" data-name="Path 234" d="M63.774,40.141h-6.3A5.172,5.172,0,0,0,58.549,37V7.721a5.233,5.233,0,0,0-5.227-5.227H13.588A5.233,5.233,0,0,0,8.361,7.721V37a5.179,5.179,0,0,0,1.072,3.136h-6.3A3.14,3.14,0,0,0,0,43.278V61.053a3.14,3.14,0,0,0,3.136,3.136H63.774a3.14,3.14,0,0,0,3.136-3.136V43.278a3.14,3.14,0,0,0-3.136-3.136ZM10.452,37V7.721a3.14,3.14,0,0,1,3.136-3.136H53.322a3.14,3.14,0,0,1,3.136,3.136V37a3.14,3.14,0,0,1-3.136,3.136H13.588A3.14,3.14,0,0,1,10.452,37ZM64.819,61.053A1.046,1.046,0,0,1,63.774,62.1H3.136a1.046,1.046,0,0,1-1.045-1.045V43.278a1.046,1.046,0,0,1,1.045-1.045H63.774a1.046,1.046,0,0,1,1.045,1.045Z" transform="translate(0 -2.494)" fill="#f2f2f7"/>
+        <path id="Path_235" data-name="Path 235" d="M61.39,41.5H27.044A1.04,1.04,0,0,0,26,42.545V58.16A1.04,1.04,0,0,0,27.044,59.2H61.39a1.04,1.04,0,0,0,1.041-1.041V42.545A1.04,1.04,0,0,0,61.39,41.5ZM60.349,57.119H28.085V43.586H60.349Z" transform="translate(1.357 -0.628)" fill="#f2f2f7"/>
+        <path id="Path_236" data-name="Path 236" d="M30.043,49.708h28.1a1.04,1.04,0,0,0,1.041-1.041V45.545A1.04,1.04,0,0,0,58.144,44.5h-28.1A1.04,1.04,0,0,0,29,45.545v3.123A1.04,1.04,0,0,0,30.043,49.708Zm1.041-3.123H57.1v1.041H31.084Z" transform="translate(1.479 -0.566)" fill="#f2f2f7"/>
+        <path id="Path_237" data-name="Path 237" d="M30.043,55.708h28.1a1.04,1.04,0,0,0,1.041-1.041V51.545A1.04,1.04,0,0,0,58.144,50.5h-28.1A1.04,1.04,0,0,0,29,51.545v3.123A1.04,1.04,0,0,0,30.043,55.708Zm1.041-3.123H57.1v1.041H31.084Z" transform="translate(1.479 -0.261)" fill="#f2f2f7"/>
+        <path id="Path_238" data-name="Path 238" d="M23.042,53.5A1.04,1.04,0,0,0,22,54.545v3.123a1.041,1.041,0,1,0,2.082,0V54.545A1.04,1.04,0,0,0,23.042,53.5Z" transform="translate(1.004 -0.138)" fill="#f2f2f7"/>
+        <path id="Path_239" data-name="Path 239" d="M20.042,53.5A1.04,1.04,0,0,0,19,54.545v3.123a1.041,1.041,0,1,0,2.082,0V54.545A1.04,1.04,0,0,0,20.042,53.5Z" transform="translate(0.867 -0.138)" fill="#f2f2f7"/>
+        <path id="Path_240" data-name="Path 240" d="M17.042,53.5A1.04,1.04,0,0,0,16,54.545v3.123a1.041,1.041,0,1,0,2.082,0V54.545A1.04,1.04,0,0,0,17.042,53.5Z" transform="translate(0.73 -0.138)" fill="#f2f2f7"/>
+        <path id="Path_241" data-name="Path 241" d="M14.042,53.5A1.04,1.04,0,0,0,13,54.545v3.123a1.041,1.041,0,1,0,2.082,0V54.545A1.04,1.04,0,0,0,14.042,53.5Z" transform="translate(0.593 -0.138)" fill="#f2f2f7"/>
+        <path id="Path_242" data-name="Path 242" d="M11.042,53.5A1.04,1.04,0,0,0,10,54.545v3.123a1.041,1.041,0,1,0,2.082,0V54.545A1.04,1.04,0,0,0,11.042,53.5Z" transform="translate(0.409 -0.138)" fill="#f2f2f7"/>
+        <path id="Path_243" data-name="Path 243" d="M8.042,53.5A1.04,1.04,0,0,0,7,54.545v3.123a1.041,1.041,0,1,0,2.082,0V54.545A1.04,1.04,0,0,0,8.042,53.5Z" transform="translate(0.286 -0.138)" fill="#f2f2f7"/>
+        <path id="Path_244" data-name="Path 244" d="M5.042,53.5A1.04,1.04,0,0,0,4,54.545v3.123a1.041,1.041,0,1,0,2.082,0V54.545A1.04,1.04,0,0,0,5.042,53.5Z" transform="translate(0.164 -0.138)" fill="#f2f2f7"/>
+        <path id="Path_245" data-name="Path 245" d="M7.164,41.5a4.164,4.164,0,1,0,4.164,4.164A4.168,4.168,0,0,0,7.164,41.5Zm0,6.245a2.082,2.082,0,1,1,2.082-2.082A2.084,2.084,0,0,1,7.164,47.749Z" transform="translate(0.123 -0.692)" fill="#f2f2f7"/>
+        <path id="Path_246" data-name="Path 246" d="M53.929,36.682V7.535a1.044,1.044,0,0,0-1.048-1.041H13.048A1.044,1.044,0,0,0,12,7.535V36.682a1.044,1.044,0,0,0,1.048,1.041H52.881A1.044,1.044,0,0,0,53.929,36.682Zm-2.1-1.041H14.1V8.576H51.833Z" transform="translate(0.491 -2.33)" fill="#f2f2f7"/>
+      </g>
+      <g id="graph" transform="translate(1106.357 1222.467)">
+        <g id="Group_6" data-name="Group 6" transform="translate(0 0)">
+          <path id="Path_247" data-name="Path 247" d="M29.15,118.546a3.127,3.127,0,0,0-2.951,2.191h-3a.883.883,0,0,0-.8.537l-1.207,2.638-2.235-5.276a.818.818,0,0,0-.849-.536.926.926,0,0,0-.8.581l-2.1,5.9-1.788-12.7a.9.9,0,0,0-.8-.76.877.877,0,0,0-.939.581L8.226,120.96H6.08a3.028,3.028,0,0,0-3-2.37,3.085,3.085,0,1,0,2.861,4.2H8.808a.917.917,0,0,0,.849-.581l2.414-6.528,1.922,12.742a.86.86,0,0,0,.8.76.9.9,0,0,0,.939-.581l2.548-7.153,2.1,5.052a.872.872,0,0,0,1.61,0l1.788-3.979H26.2a3.127,3.127,0,0,0,2.951,2.191,3.085,3.085,0,1,0,0-6.17ZM3.13,122.927a1.3,1.3,0,1,1,1.3-1.3A1.3,1.3,0,0,1,3.13,122.927Zm26.021,0a1.3,1.3,0,1,1,1.3-1.3A1.3,1.3,0,0,1,29.15,122.927Z" transform="translate(0 -111.119)" fill="#f2f2f7"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
