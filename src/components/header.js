@@ -94,7 +94,7 @@ const Container = styled.div`
       a {
         font-size: 14px;
         letter-spacing: 1.1px;
-        margin-right: 20px;
+        margin-right: 28px;
         transition: 0.3s;
 
         :nth-child(4) {
