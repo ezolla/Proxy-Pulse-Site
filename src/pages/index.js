@@ -1,6 +1,6 @@
 // Library and Package Imports
 import React from "react"
-import styled from "styled-components"
+import styled, { keyframes } from "styled-components"
 import { IoLogoWindows, IoLogoApple } from "react-icons/io"
 
 // Component Imports
@@ -179,25 +179,40 @@ const IndexPage = () => (
 
 export default IndexPage
 
+const HeroAnimation = keyframes`
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0px);
+  }
+`
+
 const Hero = styled.div`
   margin: 175px auto;
   max-width: 820px;
   text-align: center;
+  animation: ${HeroAnimation} 3s forwards cubic-bezier(0.2, 0.8, 0.2, 1);
 
   span {
     color: #6383ff;
     line-height: 14.6px;
     letter-spacing: 3.9px;
     font-size: 14px;
+    animation: ${HeroAnimation} 0.8s forwards cubic-bezier(0.2, 0.8, 0.2, 1);
   }
 
   h1 {
     margin-top: 5px;
+    animation: ${HeroAnimation} 1s forwards cubic-bezier(0.2, 0.8, 0.2, 1);
   }
 
   p {
     font-size: 24px;
     line-height: 36px;
+    animation: ${HeroAnimation} 3s forwards cubic-bezier(0.2, 0.8, 0.2, 1);
   }
 
   div {
