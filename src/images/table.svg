@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="381" height="312" viewBox="0 0 381 312">
+  <g id="Group_16" data-name="Group 16" transform="translate(-220 -69.996)">
+    <rect id="Rectangle_45" data-name="Rectangle 45" width="381" height="312" rx="3" transform="translate(220 69.996)" fill="#202020"/>
+    <text id="Status" transform="translate(237 108.996)" fill="#8e8e93" font-size="23" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">Status</tspan></text>
+    <text id="Great" transform="translate(237 170.996)" fill="#40d97b" font-size="23" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">Great</tspan></text>
+    <text id="_0_249" data-name="0 — 249" transform="translate(418 170.996)" fill="#8e8e93" font-size="23" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">0 — 249</tspan></text>
+    <text id="Speed_ms_" data-name="Speed (ms)" transform="translate(418 108.996)" fill="#8e8e93" font-size="23" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">Speed (ms)</tspan></text>
+    <line id="Line_1" data-name="Line 1" y2="310.319" transform="translate(400.321 70.837)" fill="none" stroke="#2c2c2e" stroke-width="1"/>
+    <line id="Line_2" data-name="Line 2" x2="379.932" transform="translate(220.839 132.063)" fill="none" stroke="#2c2c2e" stroke-width="1"/>
+    <line id="Line_3" data-name="Line 3" x2="379.932" transform="translate(220.839 194.127)" fill="none" stroke="#2c2c2e" stroke-width="1"/>
+    <text id="Good" transform="translate(237 232.996)" fill="#3a85f7" font-size="23" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">Good</tspan></text>
+    <line id="Line_4" data-name="Line 4" x2="379.932" transform="translate(220.839 256.19)" fill="none" stroke="#2c2c2e" stroke-width="1"/>
+    <text id="Ok" transform="translate(237 294.996)" fill="#f2a33c" font-size="23" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">Ok</tspan></text>
+    <line id="Line_5" data-name="Line 5" x2="379.932" transform="translate(220.839 318.254)" fill="none" stroke="#2c2c2e" stroke-width="1"/>
+    <text id="Bad" transform="translate(237 356.996)" fill="#f04654" font-size="23" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">Bad</tspan></text>
+    <text id="_250_999" data-name="250 — 999" transform="translate(418 232.996)" fill="#8e8e93" font-size="23" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">250 — 999</tspan></text>
+    <text id="_1000_9999" data-name="1000 — 9999" transform="translate(418 294.996)" fill="#8e8e93" font-size="23" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">1000 — 9999</tspan></text>
+    <text id="_10000_" data-name="10000  — ∞ " transform="translate(418 356.996)" fill="#8e8e93" font-size="23" font-family="Inter-SemiBold, Inter" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0" xml:space="preserve">10000  — </tspan><tspan y="0" font-size="27" letter-spacing="0.044em">∞</tspan></text>
+  </g>
+</svg>
